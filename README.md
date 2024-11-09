@@ -1,5 +1,4 @@
-# Stock-Market-Data-Analysis-Portfolio-Optimization
-Stock Market Data Analysis & Portfolio Optimization
+# Stock Market Data Analysis & Portfolio Optimization
 
 A comprehensive project that fetches, analyzes, and visualizes stock market data, applies financial ratios and technical indicators, builds a stock portfolio, performs sentiment analysis on news articles, and saves data to a SQL database.
 
